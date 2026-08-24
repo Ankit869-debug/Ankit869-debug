@@ -15,7 +15,8 @@
     <td width="50%" align="center" style="padding: 20px; border-right: 1px solid #1f1f2e;">
       <p align="left" style="color: #a855f7; font-family: monospace; font-size: 12px; margin: 0 0 10px 0;"><b>[ VISUAL.MAP ]</b></p>
       <!-- Upload your particle animation/GIF in your repo under assets/visual_map.gif -->
-      <img src="./assets/visual_map.gif" width="280px" alt="Cyber Visual Map" onerror="this.src='https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif'" />
+      <img src="./assets/visual_map.gif" .../>
+width="280px" alt="Cyber Visual Map" onerror="this.src='https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif'" />
     </td>
 
     <!-- Right: Terminal System Specs -->
