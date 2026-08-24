@@ -13,17 +13,6 @@
 
 <br/>
 
-### 📊 SYSTEM METRICS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankit869-debug&show_icons=true&theme=tokyonight&border_color=8b5cf6&hide_border=false" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit869-debug&theme=tokyonight&border_color=8b5cf6&hide_border=false" width="48%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit869-debug&layout=compact&theme=tokyonight&border_color=8b5cf6&hide_border=false" width="60%" alt="Top Languages" />
-</p>
-
 <br/>
 
 ### 🛠️ TECH STACK
